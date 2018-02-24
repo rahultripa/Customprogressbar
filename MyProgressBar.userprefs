@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{27277523-5C5F-47C1-8C95-610077140127}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyProgressBar.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DEC33E78-6958-4FD1-9830-C801C2547F92">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MyProgressBar.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Renderer/ProgressBarRenderer.cs">
+    <Files>
+      <File FileName="MyProgressBar/CustomProgressBar.cs" Line="29" Column="63" />
+      <File FileName="iOS/Renderer/ProgressBarRenderer.cs" Line="25" Column="8" />
+      <File FileName="MyProgressBar/MyProgressBarPage.xaml" Line="7" Column="10" />
+      <File FileName="MyProgressBar/MyProgressBarPage.xaml.cs" Line="26" Column="35" />
+      <File FileName="iOS/AppDelegate.cs" Line="23" Column="1" />
+      <File FileName="MyProgressBar/MyLabel.cs" Line="6" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rahul/Projects/MyProgressBar/MyProgressBar/ProgressBar.cs" relfile="MyProgressBar/ProgressBar.cs" line="60" column="1" />
+      <Breakpoint file="/Users/rahul/Projects/MyProgressBar/MyProgressBar/ProgressBar.cs" relfile="MyProgressBar/ProgressBar.cs" line="58" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
